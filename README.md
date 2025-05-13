@@ -50,7 +50,7 @@ To prototype a **recommender system** that:
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/care-for-skills.git
+git clone https://github.com/albinvanniam/care-for-skills.git
 cd care-for-skills
 
 ### 2. Install Backend
